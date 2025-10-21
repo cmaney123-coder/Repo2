@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 2469-C785
-
- Directory of C:\Users\chuck\OneDrive\Desktop\MyProject
-
-10/21/2025  10:40 AM    <DIR>          .
-10/21/2025  10:40 AM    <DIR>          ..
-10/21/2025  10:40 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  120,629,727,232 bytes free
+change 1
